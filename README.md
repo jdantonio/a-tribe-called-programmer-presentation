@@ -1,6 +1,6 @@
 # A Tribe Called Programmer Presentation
 
-This is a presentation I gave at the University of Akron. I presented to Dr. Kathy Liszka's Computer Science Senior Seminar class on 4/28/2015. The Markdown file contains the outline I wrote before creating the PPT.
+This is a presentation I give regularly at the University of Akron. I present it to the late Dr. Kathy Liszka's Computer Science Senior Seminar class. The Markdown file contains the outline I wrote before creating the PPT.
 
 **A Tribe Called Programmer**
 
@@ -8,8 +8,7 @@ This is a presentation I gave at the University of Akron. I presented to Dr. Kat
 
 ```
 Jerry D’Antonio
-Principal Software Developer
-Virtual Hold Technology
+Software Developer
 ```
 
 ```
